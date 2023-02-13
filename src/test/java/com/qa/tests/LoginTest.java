@@ -11,6 +11,7 @@ public class LoginTest {
 		
 		
 	}
+	String name="Arul"
 	
 	
 }
